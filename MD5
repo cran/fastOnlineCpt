@@ -1,0 +1,9 @@
+f33b905888db2cad751d8c11eed9bdba *DESCRIPTION
+7c0f66b903bd9e43fad631d0624b6b35 *NAMESPACE
+fb892c38abb6b6e4ab0e72343ed324cf *R/fastOnlineCpt.r
+5eb5e78bd8c00a30382e9df89ab414ad *man/addData-methods.Rd
+99ef76569caee941e1595859a1d88a1e *man/checkCpt-methods.Rd
+b601467d858f2cb97ec19ef7f471840f *man/fastOnlineCpt-class.Rd
+e303671fed8944953a803ef2be1be222 *man/fastOnlineCpt.Rd
+86ea2aea5577c78ab5e97fa148d0cd65 *man/lastCptTest-methods.Rd
+5e97dcde3d6cdffd119e6a30189197ec *man/resetAlgorithm-methods.Rd
